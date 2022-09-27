@@ -3,7 +3,7 @@ My others projects :
 - https://github.com/Femelles/RaidTool-Discord
 
 ## CONTACT / HELP
-Discord Server: https://discord.gg/qQrMUXp2M2
+Discord Server: https://discord.gg/dqFCKm9w
 Follow my GitHub : https://github.com/Femelles
 
 ### Token Generator ,joiner and onliner BY **FEMELLES**
