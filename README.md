@@ -1,6 +1,7 @@
 # Discord-Token-Generator
 My others projects :
-- https://github.com/Femelles/RaidTool-Discord
+RaidTool : 
+- https://github.com/Femelles/
 
 ## CONTACT / HELP
 Discord Server: https://discord.gg/dqFCKm9w
