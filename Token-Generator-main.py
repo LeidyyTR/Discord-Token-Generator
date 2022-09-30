@@ -241,4 +241,4 @@ class Booster:
 
 if __name__ == "__main__":
     os.system('cls' if os.name == 'nt' else 'clear')
-    Booster().__main__()
+    Booster().__main__() 
