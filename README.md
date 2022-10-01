@@ -4,7 +4,7 @@ RaidTool :
 - https://github.com/Femelles/
 
 ## CONTACT / HELP
-Discord Server: https://discord.gg/dqFCKm9w
+Discord Server: https://discord.gg/femelles
 Follow my GitHub : https://github.com/Femelles
 
 ### Token Generator ,joiner and onliner BY **FEMELLES**
@@ -27,7 +27,7 @@ Need python 3.5 to 3.7 ( download here : https://www.python.org/downloads/ ).
 # CONTACT / HELP
 Discord :
 - F:hearts:m:hearts:ll:hearts:s:crown:#9215
-- https://discord.gg/dqFCKm9w
+- https://discord.gg/femelles
 
 # DISCLAIMER
 
